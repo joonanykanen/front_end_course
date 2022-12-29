@@ -1,6 +1,6 @@
 # Front End Course
 
-This was the project I created and modified when learning Sass.
+This was the [project](https://joonanykanen.github.io/front_end_course/) I created and modified when learning Sass.
 
 Initially I learned by watching a series of tutorials on Youtube called
 [Responsive Portfolio Website](https://youtu.be/gYzHS-n2gqU) which I highly recommend.
@@ -15,7 +15,7 @@ In order to get the files on your local hard drive, I recommend using git
 
     git clone https://github.com/joonanykanen/front_end_course
 
-### Running the website
+### Running the website locally
 
 You should run [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) -plugin on VS Code in order to get the website running.
 
